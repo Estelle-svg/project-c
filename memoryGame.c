@@ -18,6 +18,6 @@ int main(){
         scanf("%d", &array[i]);
     }
     int result=max(array,size);
-    printf("The maximum number is: %d", result);
+    printf("The maximums number is: %d", result);
     return 0;;
 }
